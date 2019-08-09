@@ -15,7 +15,7 @@ The page includes code, NiFi flowfiles and additional documentation for the pape
 
 ![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/Edge_cluster.png)  
 
-![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache NiFi/blob/master/img/algorithmic_representation_MINIFI%20.png)  
+![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/algorithmic_representation_MINIFI%20.png)  
 
 ![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/dataflow.png)  
 
