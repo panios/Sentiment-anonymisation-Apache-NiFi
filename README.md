@@ -1,4 +1,4 @@
-# # Privacy preserving sentiment analysis with NiFi
+#  Privacy preserving sentiment analysis with NiFi
 The page includes code, NiFi flowfiles and additional documentation for the paper: Privacy preserving sentiment analysis on multiple edge social media data streams
 
 
