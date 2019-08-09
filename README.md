@@ -13,7 +13,10 @@ The page includes code, NiFi flowfiles and additional documentation for the pape
 |Edge3|	Raspberry Pi 3B (Sony UK) + Voice Hat, Debian 9.8|	1GB RAM, ARMv7	|Minifi 0.5|
 
 
-![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/Edge_cluster.png)
+![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/Edge_cluster.png)  
 
-https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/algorithmic_representation_MINIFI%20.png
-https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/dataflow.png
+![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache NiFi/blob/master/img/algorithmic_representation_MINIFI%20.png)  
+
+![alt text](https://github.com/PanosKostakos/Sentiment-anonymisation-Apache-NiFi/blob/master/img/dataflow.png)  
+
+
