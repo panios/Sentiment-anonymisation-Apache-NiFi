@@ -1,0 +1,1 @@
+/Users/username/anaconda/bin/python3 /Users/username/Desktop/analysis_original.py "$@"
